@@ -12,8 +12,8 @@
 [![PyQt6](https://img.shields.io/badge/PyQt6-6.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://pypi.org/project/PyQt6/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-installation)
 [![License](https://img.shields.io/badge/License-MIT-ff8fb1?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/CatVPN?style=for-the-badge&color=ff8fb1)](https://github.com/YOUR_USERNAME/CatVPN/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/CatVPN?style=for-the-badge&color=8b7bff)](https://github.com/YOUR_USERNAME/CatVPN/network/members)
+[![Stars](https://img.shields.io/github/stars/GENIUS512/CatVPN?style=for-the-badge&color=ff8fb1)](https://github.com/YOUR_USERNAME/CatVPN/stargazers)
+[![Forks](https://img.shields.io/github/forks/GENIUS512/CatVPN?style=for-the-badge&color=8b7bff)](https://github.com/YOUR_USERNAME/CatVPN/network/members)
 
 <br/>
 
@@ -445,8 +445,8 @@ See [LICENSE](LICENSE) for details.
 
 If CatVPN helped you — give it a ⭐ on GitHub, it means the world to a small black cat.
 
-<a href="https://github.com/YOUR_USERNAME/CatVPN/stargazers">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/CatVPN?style=for-the-badge&logo=github&color=ff8fb1" alt="Star this repo"/>
+<a href="https://github.com/GENIUS512/CatVPN/stargazers">
+  <img src="https://img.shields.io/github/stars/GENIUS512/CatVPN?style=for-the-badge&logo=github&color=ff8fb1" alt="Star this repo"/>
 </a>
 
 <br/><br/>
