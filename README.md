@@ -156,7 +156,7 @@ CatVPN is a **front-end** for OpenVPN — the actual tunnel is created by it.
 ### 2️⃣ Install Python dependencies
 
 ```bash
-pip install PyQt6 psutil
+pip install PyQt6 psutil```
 
 <div align="center">
 📂 Where do profiles go?
