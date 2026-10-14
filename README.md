@@ -455,7 +455,7 @@ If CatVPN helped you — give it a ⭐ on GitHub, it means the world to a small 
 
 <br/><br/>
 
-**Made with 💜 and a lot of coffee by [YOUR_USERNAME](https://github.com/KefirCat)**
+**Made with 💜 and a lot of coffee by [KefirCat](https://github.com/KefirCat)**
 
 <br/>
 
